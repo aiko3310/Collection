@@ -12,6 +12,10 @@ UI 搭配 Argon design
 
 [琛元](http://www.chumyuan.com/)
 
+## React 練習
+
+[練習](https://aiko3310.github.io/The-F2E/)
+
 ## React 後台系統
 
 UI 搭配 Ant-design
