@@ -1,11 +1,5 @@
 # 收集目前比較完整的作品
 
-## Vue + Nuxt
-
-UI 搭配 Vuetify
-
-[bgholding](http://www.bgholdings.co.nz/)
-
 ## 設計 + 製作
 
 UI 搭配 Argon design
